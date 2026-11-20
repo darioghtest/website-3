@@ -68,15 +68,7 @@ console.log(`${greeting} {world}`)
 
 [An uploaded video](https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4)
 
-[
-
-**Paragraph**
-
-Paragraph has 17 repositories available. Follow their code on GitHub.
-
-https://github.com
-
-![Paragraph](https://storage.googleapis.com/papyrus_images/6c71fe2e7c88d510b72fd8eff1e41e2a8def20cb02c209c9aff94450e382dd69.png)](https://github.com/paragraph-xyz)
+[Paragraph](https://github.com/paragraph-xyz)
 
 ## Collapsible
 
