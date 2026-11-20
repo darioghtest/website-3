@@ -8,6 +8,7 @@ featured: false
 ogImage: {"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fronalpstock_big.jpg/1280px-Fronalpstock_big.jpg"}
 slug: "paragraph-editor-blocks-test"
 title: "Every block Paragraph's editor makes"
+updatedAt: 2026-11-20
 ---
 
 This article uses every block Paragraph's editor makes: **bold**, _italic_, <u>underline</u>, ~~strikethrough~~, `inline code`, and [a link](https://paragraph.com). Characters MDX trips on: \{braces\}, \<angle> brackets, and a\_b\*c.
